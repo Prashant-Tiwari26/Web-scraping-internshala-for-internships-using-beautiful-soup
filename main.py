@@ -25,6 +25,6 @@ def find_internships():
 if __name__ == '__main__':
     while True:
         find_internships()
-        time_wait = 1 
+        time_wait = 45 
         print(f"Searching again in {time_wait} minutes")
         sleep(time_wait*60)
