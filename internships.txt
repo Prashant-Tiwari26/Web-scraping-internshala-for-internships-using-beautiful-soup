@@ -1,21 +1,27 @@
+Company : ZIGRAM
+Profile : Data Science
+15,000-20,000 /month
+Company : Blackcoffer
+Profile : Data Science
+6,000-12,000 /month
+Company : NatWest Group
+Profile : AWS, Scala & Spark Development
+45,000 /month
 Company : Easy Education
 Profile : Sales Management
 10,000 /month
 Company : FlexiEle Consulting Services Private Limited
 Profile : MySQL Development
 10,000 /month
-Company : HeyForm
-Profile : Digital Marketing
-10,000-12,000 /month
+Company : Maple ELearning Services
+Profile : Content Writing
+10,000-15,000 /month
 Company : Indifoot
 Profile : Data Analytics
 15,000 /month
 Company : Buddha Education Association Incorporation
 Profile : Machine Learning
 21,000 /month
-Company : Basta India
-Profile : Data Analytics/Science Instructor
-30,000 /month
 Company : The Crafty Talk
 Profile : Data Science
 20,000 /month
@@ -25,6 +31,3 @@ Profile : Machine Learning
 Company : Wobot Intelligence Private Limited
 Profile : Deep Learning
 10,000 /month
-Company : Eutopia
-Profile : Data Extractions And System Solutions
-3,500-10,000 /month
